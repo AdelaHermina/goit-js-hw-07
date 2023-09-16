@@ -37,5 +37,5 @@ galleryElement.addEventListener("click", function (event) {
       instance.close();
     }
   });
-  console.log(galleryItems);
+  
 });
